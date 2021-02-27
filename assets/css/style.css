@@ -12,6 +12,7 @@ body {
 
 .header {
   padding: 20px;
+  /* setting the font type used in header class */
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   /* Sets background color */
@@ -34,6 +35,7 @@ body {
   padding-top: 15px;
   margin-right: 20px;
   float: right;
+  /* setting the font type used in header class */
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 20px;
 }
@@ -58,6 +60,7 @@ p {
 }
 
 .hero {
+  /*Setting the height and width of the section */
   height: 800px;
   width: 100%;
   margin-bottom: 25px;
@@ -89,6 +92,7 @@ p {
   float: right;
   width: 20%;
   height: 100%;
+  /* setting the font type used in benefits class */
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   /* Using hex codes to define background color */
   background-color: #2589bd;
@@ -149,6 +153,7 @@ p {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
+  /* setting the font type used in search-engine-optimization class */
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #0072bb;
   /* Using hex codes to define color */
@@ -159,6 +164,7 @@ p {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
+  /* setting the font type used in online-reputation-management class */
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   /* Using hex codes to define background color */
   background-color: #0072bb;
@@ -207,6 +213,7 @@ p {
 .footer {
   padding: 30px;
   clear: both;
+  /* setting the font type used in footer class */
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   text-align: center;
