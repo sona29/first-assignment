@@ -19,7 +19,6 @@ body {
   background-color: #2a607c;
   /* Using hex codes to define color */
   color: #ffffff;
-  border: 1px solid red;
 }
 
 .header h1 {
@@ -105,6 +104,7 @@ p {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
+  border: 1px solid red;
 }
 
 .benefits {
@@ -241,6 +241,15 @@ p {
   text-align: center;
 }
 
-.footer h2 {
+footer {
+  padding: 30px;
+  clear: both;
+  /* setting the font type used in footer class */
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+}
+
+footer h2 {
   font-size: 20px;
 }
