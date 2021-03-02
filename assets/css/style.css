@@ -152,15 +152,6 @@ p {
 
 /*article-section end*/
 
-.footer {
-  padding: 30px;
-  clear: both;
-  /* setting the font type used in footer class */
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
-  text-align: center;
-}
-
 footer {
   padding: 30px;
   clear: both;
