@@ -32,7 +32,7 @@ header h1 .seo {
   color: #d9dcd6;
 }
 
-/* for nav */
+/* for nav start */
 header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -42,16 +42,17 @@ header nav {
   font-size: 20px;
 }
 
-/* for nav */
 header nav ul {
+  /* Remove list's default bullets */
   list-style-type: none;
 }
 
-/* for nav */
 header nav ul li {
+  /* to display list items horizontally instead of vertically */
   display: inline-block;
   margin-left: 25px;
 }
+/* for nav end */
 
 a {
   /* Using hex codes to define color */
@@ -66,6 +67,7 @@ a:hover {
 }
 
 p {
+  /* setting font size of paragraph text */
   font-size: 16px;
 }
 
@@ -74,6 +76,7 @@ p {
   height: 800px;
   width: 100%;
   margin-bottom: 25px;
+  /*Setting background image */
   background-image: url("../images/digital-marketing-meeting.jpg");
   background-size: cover;
   background-position: center;
