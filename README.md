@@ -10,8 +10,6 @@
 
 - The link for "Search Engine Optimization" was not working. The missing id was added.
 
-- The css selectors and properties were also consolidated to follow semantic structure.
-
 - Comments were added on html and css files.
 
 ## Mock up
