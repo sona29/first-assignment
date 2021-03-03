@@ -1,5 +1,5 @@
+/*Universal selector*/
 * {
-  /*Universal selector : to include padding and border in element's total width and height */
   box-sizing: border-box;
   padding: 0;
   margin: 0;
@@ -83,11 +83,13 @@ p {
 }
 
 .float-left {
+  /* The element floats to left of its container */
   float: left;
   margin-right: 25px;
 }
 
 .float-right {
+  /* The element floats to right of its container */
   float: right;
   margin-left: 25px;
 }
@@ -119,6 +121,7 @@ p {
 }
 
 .benefit-section h3 {
+  /* Setting the bottom margin of the element */
   margin-bottom: 10px;
   text-align: center;
 }
@@ -143,6 +146,7 @@ p {
 }
 
 .article-section img {
+  /* Set the maximum height of the image under article-section class */
   max-height: 200px;
 }
 
@@ -163,5 +167,6 @@ footer {
 }
 
 footer h2 {
+  /* setting the font of text of h2 */
   font-size: 20px;
 }
